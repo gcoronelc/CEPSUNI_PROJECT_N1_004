@@ -1,0 +1,9 @@
+1.- Nombrar el archivo
+2.- Propiedades Generales
+3.- Calendario
+    - Trabaja de Lunes a Sabado
+    - De 8:00 a 13:00 Horas 
+    - De 14:00 a 17:00 Horas
+
+
+
