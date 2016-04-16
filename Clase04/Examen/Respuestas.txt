@@ -1,0 +1,43 @@
+Responder las Siguientes Preguntas
+========================================================
+
+1.	Cuándo finaliza el proyecto?
+Rpta: 30-05-2016
+
+2.	Existen recursos sobre-asignados?
+Rpta: NO
+Quienes? 
+
+
+3.	Cuál es el costo del proyecto?
+Rpta: 40,160.00
+
+4.	Cuanto tiempo dura el proyecto?
+Rpta: 75 días
+
+5.	Cuanto es el costo total del Analista y los Programadores?
+Rpta. 
+   Analista: 8,640.00
+   Programadores: 20,160.00
+
+6.	Cuanto es el costo del día 23-MAR-2016?
+Rpta: 160.00
+
+7.	Qué recursos estarían trabajando el 23-MAR-2016?
+Rpta: Digitador
+
+8.	Cuantas horas en total se estaría trabajando el día 23-MAR-2016?
+Rpta: 8 Horas
+
+9.	Indique dos tareas que no se encuentran en la ruta crítica.
+Rpta: 
+   - Requerimientos del Usuario
+   - Mantenimiento de tablas
+   - Reportes y consultas
+
+10.	Si la tarea Reportes y Consultas, toma desarrollarla 2 días más:
+Cuánto varía el costo del proyecto? 
+   40,160 -> 40,640: Se incrementa en 480.00
+Qué pasa con la duración del proyecto? 
+   75 -> 75: No varia
+
